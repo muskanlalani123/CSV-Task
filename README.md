@@ -8,7 +8,7 @@ Node.js (version 12 or higher)
 Clone this repository to your local machine.
 Navigate to the project directory.
 Install the dependencies using the following command:
-npm install
+`npm install`
 
 **Usage**
 
