@@ -1,4 +1,5 @@
 **CSV Data Fetcher and Scheduler**
+
 This Node.js application fetches data from an API, converts it into a different format (DTO - Data Transfer Object), and stores it in CSV files. It also includes a scheduler to perform periodic data extraction and a cleanup task to manage the CSV files over time.
 
 **Requirements**
