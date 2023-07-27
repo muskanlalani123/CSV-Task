@@ -13,9 +13,9 @@ npm install
 
 **Usage**
 
-1)To fetch data from the API, convert it into the desired format, and store it as a CSV file
-2)The application includes a scheduler that fetches data from the API every 5 minutes. The scheduler is set to extract data using the fetchDataFromAPI function:
-3)The application also includes a cleanup task that runs daily at 3 AM to remove old CSV files from the "PostCSV" folder.
+1)To fetch data from the API, convert it into the desired format, and store it as a CSV file.<br>
+2)The application includes a scheduler that fetches data from the API every 5 minutes. The scheduler is set to extract data using the fetchDataFromAPI function.<br>
+3)The application also includes a cleanup task that runs daily at 3 AM to remove old CSV files from the "PostCSV" folder.<br>
 
 **Note**
 Adjust the cron schedules (cron.schedule) for data extraction and cleanup according to your requirements.
